@@ -5,7 +5,7 @@
     "keywords": ["light","mirrors edge", "glass ui", "theme", "red"],
     "version": "1.0.0",
     "publisher": "aregghazaryan",
-    "license": "(MIT OR Apache-2.0)",
+    "license": "SEE LICENSE IN LICENSE.txt",
     "author": {
         "name": "Areg Ghazaryan"
     },
@@ -15,6 +15,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [
             {
@@ -23,5 +24,13 @@
                 "path": "./themes/Glass UI-color-theme.json"
             }
         ]
-    }
+    },
+    "galleryBanner": {
+        "color": "#ff0080",
+        "theme": "light"
+      },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AregGhazaryan/GlassUI-VScode.git"
+      }
 }
