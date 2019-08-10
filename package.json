@@ -2,8 +2,14 @@
     "name": "glass-ui",
     "displayName": "Glass UI",
     "description": "Pure, Bright, Light. Glass UI originally made for Atom is now available for VS Code. Inspired by Mirror's Edge",
-    "keywords": ["light","mirrors edge", "glass ui", "theme", "red"],
-    "version": "1.0.0",
+    "keywords": [
+        "light",
+        "mirrors edge",
+        "glass ui",
+        "theme",
+        "red"
+    ],
+    "version": "1.1.0",
     "publisher": "aregghazaryan",
     "license": "SEE LICENSE IN LICENSE.txt",
     "author": {
@@ -28,9 +34,9 @@
     "galleryBanner": {
         "color": "#ff0080",
         "theme": "light"
-      },
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/AregGhazaryan/GlassUI-VScode.git"
-      }
+    }
 }
