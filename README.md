@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "glass-ui"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Glass UI
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Glass UI theme which was originally made for Atom now available for the most popular text editor VS Code. 
+Bright and light minimalistic UI inspired by Mirror's Edge design.<br>
+![Untitledad-1](https://user-images.githubusercontent.com/38076644/62824174-54eb0180-bbab-11e9-975e-2baf0e8cf33f.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+
 
 **Enjoy!**
+
+
+
+
