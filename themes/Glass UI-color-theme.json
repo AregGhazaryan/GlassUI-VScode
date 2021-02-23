@@ -8,9 +8,9 @@
 		"sideBar.background": "#ffffff",
 		"sideBar.foreground": "#222222",
 		"sideBar.border": "#ffd9df",
-		"sideBarSectionHeader.background": "#ff6060",
+		"sideBarSectionHeader.background": "#ff0040",
 		"sideBarSectionHeader.foreground": "#ffffff",
-		"list.activeSelectionBackground": "#d10000",
+		"list.activeSelectionBackground": "#ff0040",
 		"list.activeSelectionForeground": "#ffffff",
 		"list.dropBackground": "#d80036",
 		"list.focusBackground": "#ffffff",
@@ -24,6 +24,8 @@
 		"list.invalidItemForeground": "#cc0000",
 		"list.errorForeground": "#cc0000",
 		"list.warningForeground": "#ff4800",
+        "list.filterMatchBackground" :"#ff0080", 
+        "list.deemphasizedForeground" : "#ffffff",
 		"listFilterWidget.background": "#ff0040",
 		"listFilterWidget.outline": "#ff0040",
 		"listFilterWidget.noMatchesOutline": "#cc0000",
@@ -102,7 +104,7 @@
 		"editorIndentGuide.activeBackground": "#ff00404f",
 		"editorRuler.foreground": "#ff00404f",
 		"editorCodeLens.foreground": "#ff00404f",
-		"editorBracketMatch.background": "#ff00404f",
+		"editorBracketMatch.background": "#ff004021",
 		"editorBracketMatch.border": "#ff004000",
 		"editorOverviewRuler.findMatchForeground": "#0099ffa2",
 		"editorOverviewRuler.rangeHighlightForeground": "#ff004021",
@@ -138,6 +140,9 @@
 		"notifications.foreground": "#ff0080",
 		"notifications.background": "#ffffff",
 		"notifications.border": "#ff0080",
+        "notificationsErrorIcon.foreground" : "#ff0080",
+        "notificationsWarningIcon.foreground" : "#ff0080",
+        "notificationsInfoIcon.foreground" : "#ff0080",
 		"notificationLink.foreground": "#b700ff",
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentBackground": "#ff0080",
@@ -172,6 +177,7 @@
 		"breadcrumb.foreground": "#ff0040",
 		"breadcrumb.background": "#ffffff",
 		"textLink.foreground": "#ff0040",
+        "icon.foreground": "#ffffff"
 	},
 	"tokenColors": [
 		{
@@ -200,7 +206,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#38c700"
+				"foreground": "#607657"
 			}
 		},
 		{
@@ -276,7 +282,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#a200ff"
+				"foreground": "#ff5900"
 			}
 		},
 		{
