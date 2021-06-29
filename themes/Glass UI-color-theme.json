@@ -121,6 +121,8 @@
         "editorWidget.background": "#ff0040",
         "editorWidget.foreground": "#ffffff",
         "editorWidget.border": "#ff0040",
+        "editorSuggestWidget.foreground": "#ffffff",
+        "editorSuggestWidget.highlightForeground": "#ffcc00",
         "panel.dropBackground": "#ff0040b6",
         "panelTitle.activeBorder": "#ff0040",
         "panelTitle.activeForeground": "#ff0040",
