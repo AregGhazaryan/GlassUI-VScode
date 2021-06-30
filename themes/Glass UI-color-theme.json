@@ -123,6 +123,7 @@
         "editorWidget.border": "#ff0040",
         "editorSuggestWidget.foreground": "#ffffff",
         "editorSuggestWidget.highlightForeground": "#ffcc00",
+        "editorSuggestWidget.focusHighlightForeground" : "#ffbddc",
         "panel.dropBackground": "#ff0040b6",
         "panelTitle.activeBorder": "#ff0040",
         "panelTitle.activeForeground": "#ff0040",
@@ -185,7 +186,8 @@
         "peekViewTitle.background": "#ff0040",
         "peekViewTitleDescription.foreground": "#ffffff",
         "peekViewTitleLabel.foreground": "#ffffff",
-        "peekView.border" : "#ff0040"
+        "peekView.border" : "#ff0040",
+        "editorSuggestWidget.selectedForeground" : "#ffffff"
     },
     "tokenColors": [
         {
