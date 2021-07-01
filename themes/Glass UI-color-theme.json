@@ -187,7 +187,9 @@
         "peekViewTitleDescription.foreground": "#ffffff",
         "peekViewTitleLabel.foreground": "#ffffff",
         "peekView.border" : "#ff0040",
-        "editorSuggestWidget.selectedForeground" : "#ffffff"
+        "editorSuggestWidget.selectedForeground" : "#ffffff",
+        "quickInputList.focusForeground" : "#ffffff",
+        "quickInputList.focusBackground" : "#ff58ba"
     },
     "tokenColors": [
         {
